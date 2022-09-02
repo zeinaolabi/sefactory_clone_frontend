@@ -146,10 +146,11 @@ ul li{
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    padding: 2%;
 }
 
 .stats_content{
-    margin: 5em 10em;
+    margin: 0 8%;
 }
 
 
