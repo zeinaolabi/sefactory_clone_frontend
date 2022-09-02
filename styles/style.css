@@ -140,5 +140,16 @@ ul li{
     font-size: 55px;
 }
 
+.statistics{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.stats_content{
+    margin: 5em 10em;
+}
 
 
